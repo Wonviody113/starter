@@ -1,0 +1,5 @@
+#wpgeoip_popup {background: #fff; padding: 30px; width: 450px; }
+#wpgeoip_popup ul{list-style: none; margin-top:10px;}
+#wpgeoip_popup ul li{ margin:10px;}
+.wpgeoip_region{display: none;}
+.wpgeoip_city{display: none;}

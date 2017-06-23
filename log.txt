@@ -1,0 +1,49 @@
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect 2015-07-20
+Performing redirect on user with IP Address 2015-07-24
+Performing redirect on user with IP Address 2015-07-24
+Performing redirect on user with IP Address 2015-07-24
+Performing redirect on user with IP Address 2015-07-24
+Performing redirect on user with IP Address 2015-07-24
+Performing 'redirect' on user with IP Address 122.175.234.155 :2015-07-24 09:41:48 AM
+Performing 'redirect' for country = IN (IP Address:122.175.220.148) @2015-07-24 11:28:11 AM
+Performing 'redirect' for country = IN (IP Address:122.175.220.114) @2015-07-24 11:49:16 AM
+Performing 'redirect' for country = IN (IP Address:122.175.230.219) @2015-07-25 06:26:25 AM
+Performing 'no action' as user is associated no_action filter : 2015-07-25
+Performing 'no action' as user is associated no_action filter : 2015-07-25
+Performing 'no action' as user is associated no_action filter : 2015-07-25
+Performing 'no action' as user is associated no_action filter : 2015-07-25
+Performing 'no action' as user is associated no_action filter : 2015-07-25
+Performing 'no action' as user is associated no_action filter : 2015-07-25
+Performing 'redirect' for country = IN (IP Address:122.175.230.219) @2015-07-25 10:22:03 AM
+Performing 'redirect' for country = IN (IP Address:122.175.220.38) @2015-07-27 05:32:27 AM
+Performing 'redirect' for country = IN (IP Address:122.175.220.38) @2015-07-27 08:44:22 AM
+Performing 'redirect' for country = IN (IP Address:122.175.220.38) @2015-07-27 08:44:50 AM
+Performing 'redirect' for country = IN (IP Address:122.175.220.38) @2015-07-27 09:39:32 AM
+Performing 'hide' for country = IN (IP Address:122.175.220.38) @2015-07-27 09:40:03 AM
+Performing 'hide' for country = IN (IP Address:122.175.220.38) @2015-07-27 10:47:48 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 07:23:56 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 08:22:06 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 08:22:13 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 08:41:00 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 08:42:47 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 08:43:41 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 11:18:27 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 11:23:30 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 11:32:13 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 11:52:55 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 11:54:14 AM
+No matching IP address entry found for IP Address ::1 :2015-08-13 12:21:54 PM
+No matching IP address entry found for IP Address ::1 :2015-08-13 12:23:07 PM
+No matching IP address entry found for IP Address ::1 :2015-08-13 12:31:00 PM
+No matching IP address entry found for IP Address ::1 :2015-08-13 12:34:13 PM
+No matching IP address entry found for IP Address ::1 :2015-08-13 12:34:44 PM
+No matching IP address entry found for IP Address ::1 :2015-08-13 01:39:46 PM
+No matching IP address entry found for IP Address ::1 :2015-08-13 02:49:57 PM
